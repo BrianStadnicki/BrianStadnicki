@@ -1,16 +1,12 @@
-### Hi there 👋
+# Brian Stadnicki
+## About me
+I'm a hobbyist reverse engineer, malware analyst and developer so i'm always working on something. I'm currently in secondary school.
+Check out my [blog](https://brianstadnicki.github.io)!
+## Languages
+Skilled: Java
 
-<!--
-**BrianStadnicki/BrianStadnicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Comfortable: Javascript, Python, Ruby
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Understand: Rust, C++, C, .NET, x86/64 assembly, jvm bytecode, Bash
+## Hire me
+Contact me at [fiverr](https://www.fiverr.com/malwarereverse) or [email](mailto:stadnickibrian@gmail.com) me
