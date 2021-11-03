@@ -9,4 +9,4 @@ Comfortable: Javascript, Python, Ruby
 
 Understand: Rust, C++, C, .NET, x86/64 assembly, jvm bytecode, Bash
 ## Hire me
-Contact me at [fiverr](https://www.fiverr.com/malwarereverse) or [email](mailto:stadnickibrian@gmail.com) me
+[Email](mailto:stadnickibrian@gmail.com) me
